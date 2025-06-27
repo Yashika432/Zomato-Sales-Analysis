@@ -51,8 +51,14 @@ This project provides an in-depth sales and restaurant analysis based on Zomato‚
    - An interactive dashboard built to visualize and filter KPIs dynamically
 
 Excel Dashboard
-![Image].(https://github.com/Yashika432/Zomato-Sales-Analysis/blob/main/Excel%20Dashboard%20(2).png).
 ![image](https://github.com/Yashika432/Zomato-Sales-Analysis/blob/main/Excel%20Dashboard%20(2).png)
+
+PowerBi Dashboard
+![image](https://github.com/Yashika432/Zomato-Sales-Analysis/blob/main/PowerBI%20Dashboard.png)
+
+Tableau Dashboard
+![image]()
+
 ---
 
 ## üîç Tools Used
