@@ -52,7 +52,7 @@ This project provides an in-depth sales and restaurant analysis based on Zomatoâ
 
 Excel Dashboard
 ![Image].(https://github.com/Yashika432/Zomato-Sales-Analysis/blob/main/Excel%20Dashboard%20(2).png).
-![image](https://github.com/user-attachments/assets/7b6af71d-290d-43d1-90b7-b583c25c84f5)
+![image](Excel Dashboard (2).png)
 ---
 
 ## ğŸ” Tools Used
