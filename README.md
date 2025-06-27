@@ -6,7 +6,7 @@ This project provides an in-depth sales and restaurant analysis based on Zomato‚
 
 ## üìÅ Project Files
 
-- `Zomato Sales Powerbi.pbix` - Power BI Dashboard
+- `Zomato Sales Powerbi.pbix` - <a href="https://github.com/Yashika432/HR-Analytics-Dashboard/blob/main/HR_1.xlsx">HR_1</a> - Power BI Dashboard
 - `My final Zomato.xlsx` - Excel data source and model
 - `My zomato tableau.twbx` - Tableau visual dashboard
 - `zamato_sql_quries_completed.sql` - All SQL queries used
