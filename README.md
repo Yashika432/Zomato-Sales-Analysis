@@ -57,7 +57,7 @@ PowerBi Dashboard
 ![image](https://github.com/Yashika432/Zomato-Sales-Analysis/blob/main/PowerBI%20Dashboard.png)
 
 Tableau Dashboard
-![image]()
+![image](https://github.com/Yashika432/Zomato-Sales-Analysis/blob/main/Tableau%20Dashboard%20(2).png)
 
 ---
 
