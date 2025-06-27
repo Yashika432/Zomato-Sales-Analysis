@@ -70,12 +70,3 @@ Tableau Dashboard
 - **Git & Git LFS** – Version control for large files
 
 ---
-
-## 💡 Additional KPIs (Exploratory)
-
-Feel free to explore:
-- Distribution of Ratings by Price Buckets
-- Top Cuisines by Region
-- Restaurants with both Online Delivery & Table Booking
-
----
