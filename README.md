@@ -50,6 +50,8 @@ This project provides an in-depth sales and restaurant analysis based on Zomato‚
 7. **Dashboard**
    - An interactive dashboard built to visualize and filter KPIs dynamically
 
+Excel Dashboard
+https://github.com/Yashika432/Zomato-Sales-Analysis/blob/main/Excel%20Dashboard%20(2).png
 ---
 
 ## üîç Tools Used
