@@ -7,7 +7,7 @@ This project provides an in-depth sales and restaurant analysis based on Zomato‚
 ## üìÅ Project Files
 
 - <a href="https://github.com/Yashika432/Zomato-Sales-Analysis/blob/main/Zomato%20Sales%20Powerbi.pbix">HR_1</a> - Power BI Dashboard
-- <a href="https://github.com/Yashika432/Zomato-Sales-Analysis/blob/main/Zomato%20Sales%20Powerbi.pbix">HR_1</a>  - Excel dashboard
+- <a href="https://github.com/Yashika432/Zomato-Sales-Analysis/blob/main/My%20final%20Zomato.xlsx">Zomato Excel Dashboard</a>  - Excel dashboard
 - <a href="https://github.com/Yashika432/Zomato-Sales-Analysis/blob/main/Zomato%20Sales%20Powerbi.pbix">HR_1</a>  Tableau visual dashboard
 - <a href="https://github.com/Yashika432/Zomato-Sales-Analysis/blob/main/Zomato%20Sales%20Powerbi.pbix">HR_1</a>  All SQL queries used
 - <a href="https://github.com/Yashika432/Zomato-Sales-Analysis/blob/main/Zomato%20Sales%20Powerbi.pbix">HR_1</a>  Git LFS tracking for large files
